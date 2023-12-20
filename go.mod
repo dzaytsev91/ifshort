@@ -1,4 +1,4 @@
-module github.com/esimonov/ifshort
+module github.com/dzaytsev91/ifshort
 
 go 1.17
 
